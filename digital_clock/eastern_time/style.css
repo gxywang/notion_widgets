@@ -1,0 +1,14 @@
+#clock {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: #64473a;
+	font-size: 150px;
+	text-align: center;
+}
+
+#date {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: #64473a;
+	font-size: 50px;
+	margin: -30px;
+	text-align: center;
+}
