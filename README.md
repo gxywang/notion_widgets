@@ -1,13 +1,13 @@
 # notion_widgets
 
-Embed widget links are given by `gxywang.github.io/notion_widgets/<widget-name>/`.
+Embed widget links are given by `gxywang.github.io/notion_widgets/<widget-name>/<subtype>/`.
 
 Forked from [https://anthonytedja.github.io/notion/](https://anthonytedja.github.io/notion/)
 
 ## Widgets
-`Pomodoro` : [Pomodoro](https://gxywang.github.io/notion_widgets/pomodoro/)
 
 `Weather` : source from [weatherwidget.io](https://weatherwidget.io/)
+- [Chicago, IL](https://gxywang.github.io/notion_widgets/weather/chicago/)
 - [Champaign, IL](https://gxywang.github.io/notion_widgets/weather/champaign/)
 - [Arlington, VA](https://gxywang.github.io/notion_widgets/weather/arlington/)
 
@@ -19,6 +19,8 @@ Forked from [https://anthonytedja.github.io/notion/](https://anthonytedja.github
 `Clock` : [Analog clock](https://gxywang.github.io/notion_widgets/clock/)
 
 `Time` : [Text Clock](https://gxywang.github.io/notion_widgets/time/)
+
+`Pomodoro` : [Pomodoro](https://gxywang.github.io/notion_widgets/pomodoro/)
 
 `Cat` : [Cat](https://gxywang.github.io/notion_widgets/cat/)
 
